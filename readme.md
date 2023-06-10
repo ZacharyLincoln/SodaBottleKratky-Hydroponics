@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">An extremely simple, easy and inexpensive hydroponics setup.</h4>
+<h4 align="center" id="desc">An extremely simple, easy and inexpensive hydroponics setup.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
