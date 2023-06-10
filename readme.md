@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./SodaKratky/project2-1.png" alt="Horizontal Hydroponics Logo" width="200">
+  <img id="logo" src="./SodaKratky/project2-1.png" alt="Horizontal Hydroponics Logo" width="200">
   <br>
   Soda Bottle Kratky - Hydroponics
   <br>
